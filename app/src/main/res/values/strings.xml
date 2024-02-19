@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Text To Speech</string>
+    <string name="enter_text_to_speak">Enter text to speak:</string>
+    <string name="type_here">Type here</string>
+    <string name="speak">Speak</string>
+    <string name="enter_text">Enter text</string>
+    <string name="please_enter_text">Please enter some text</string>
+    <string name="language_not_supported">Language not supported</string>
+    <string name="texttospeak_initialization_failed">Text to speak initialization failed</string>
+</resources>
